@@ -9,9 +9,9 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is {{ site.title }} and I am {{ site.author }} will be learning and discovering all about Operating System.
 <br><br>
-Qapla!
+Poggers!
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
