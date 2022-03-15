@@ -25,10 +25,10 @@ Link ZOOM OS(use if scele is down).
 4. [OS LogCodes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
 Link for OS Weekly Log Codes.
 
-5. [File System in OS] (https://www.geeksforgeeks.org/file-systems-in-operating-system/) <br>
+5. [\File System in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
 File System in Operating Systems from GeeksforGeeks
 
-6. [File System] (https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
+6. [File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
 File system from TutorialsPoint 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
