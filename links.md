@@ -30,6 +30,14 @@ File System in Operating Systems from GeeksforGeeks
 
 6. [File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
 File system from TutorialsPoint 
+
+7. [Simple Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+Making a simple Makefile, and print simple "hello world" with c.
+
+8. [Memory Management in OS](https://www.tutorialspoint.com/operating_system/os_memory_management.htm#:~:text=Memory%20management%20is%20the%20functionality,process%20or%20it%20is%20free.)<br>
+Memory Management in Operating Systems from TutorialsPoint
+
+>>>>>>> 7577d2d (AssignmentWEEK04)
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
