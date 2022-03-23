@@ -25,24 +25,16 @@ Link ZOOM OS(use if scele is down).
 4. [OS LogCodes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
 Link for OS Weekly Log Codes.
 
-5. [File System in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+5. [File System in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/) <br>
 File System in Operating Systems from GeeksforGeeks
 
 6. [File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
-File system from TutorialsPoint 
+File system from TutorialsPoint
 
-7. [Simple Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
-Making a simple Makefile, and print simple "hello world" with c.
+7. [Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+How to make simple Makefile, print hello-world.c
 
-8. [Memory Management in OS](https://www.tutorialspoint.com/operating_system/os_memory_management.htm#:~:text=Memory%20management%20is%20the%20functionality,process%20or%20it%20is%20free.)<br>
-Memory Management in Operating Systems from TutorialsPoint
-
-9. [Virtual Memory OS](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm#:~:text=A%20computer%20can%20address%20more,to%20emulate%20the%20computer's%20RAM.)<br>
-Virtual Memory in Operating Systems from TutorialsPoint
-
-10. [Vitual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
-Virtual Memory in Operating Systems, @GeeksforGeeks
-
+8. [Memory Management in OS](
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
