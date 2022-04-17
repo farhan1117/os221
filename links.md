@@ -43,6 +43,11 @@ Virtual Memory in Operating Systems from TutorialsPoint
 10. [Vitual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Virtual Memory in Operating Systems, @GeeksforGeeks
 
+11. [Process](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+Process in Operating Systems from TutorialsPoint
+
+12. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+Treads and Concurrency in Operating Systems, @applied-programming
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
