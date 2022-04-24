@@ -48,6 +48,12 @@ Process in Operating Systems from TutorialsPoint
 
 12. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
 Treads and Concurrency in Operating Systems, @applied-programming
+
+13. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Process Synchronization in Operating Systems from GeeksforGeeks
+
+14. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+Process Synchronization, @guru99
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
